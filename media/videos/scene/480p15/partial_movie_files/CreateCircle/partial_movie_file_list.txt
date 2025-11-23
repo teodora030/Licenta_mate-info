@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Teodora/Dev/Licenta/media/videos/scene/480p15/partial_movie_files/CreateCircle/1185818338_615803566_223132457.mp4'
+file 'file:C:/Users/Teodora/Dev/Licenta/media/videos/scene/480p15/partial_movie_files/CreateCircle/624642324_1839128356_1971309556.mp4'
